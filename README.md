@@ -1,4 +1,4 @@
-# Dockerized Baobab
+# Dockerized K4dirstat
 
 K4dirstat running in a docker container with NoVNC to figure out what is taking up space on a headless server. 
 
