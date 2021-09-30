@@ -1,0 +1,10 @@
+version: '2'
+services: 
+  baobab:
+   image: tyzbit/k4dirstat
+   build: .
+   volumes:
+    - /home:/data
+   ports: 
+    - 6080:6080
+
